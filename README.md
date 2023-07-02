@@ -23,3 +23,5 @@ npm start
 ```
 
 Then refresh the same URL in your browser (no live reload for production builds).
+
+TODO: https://www.npmjs.com/package/react-swipeable

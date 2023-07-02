@@ -15,6 +15,7 @@ export default {
   // assetsBuildDirectory: "public/build",
   // serverBuildPath: "build/index.js",
   // publicPath: "/build/",
+  tailwind: true,
   future: {
     v2_dev: true,
     v2_errorBoundary: true,
